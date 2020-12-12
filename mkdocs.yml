@@ -1,0 +1,5 @@
+site_name: Fancy Name
+nav:
+  - Home: index.md
+  - Hi: hi.md
+  - Hello: hello.md
